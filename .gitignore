@@ -1,0 +1,28 @@
+*.sch-bak
+src/qpcr/aws-greengrass-stream-manager-sdk-js
+
+*/_autosave*
+# src/qpcr/user_data/*
+*/package-lock.json
+src/docs/mockup/img/*
+# .gitignore
+src/console/client/dist/*
+#src/raspi_packaging/*
+src/network_conf_app/network.json
+src/network_conf_app/wpa_supplicant.conf
+src/raspi_packaging/hosts
+
+node_modules
+package-lock.json
+
+# KiCad autosave
+*/*.sch-bak
+*/*.kicad_pcb-bak
+*-cache.lib
+*-rescue.dcm
+-rescue.lib
+_autoosave*
+Untitled.pdf
+src/api/*
+tmp/*
+kicad/Ninja-qPCR/batch18/main/qPCR-main-backups/*

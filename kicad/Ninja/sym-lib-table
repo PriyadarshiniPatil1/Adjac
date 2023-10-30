@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Raspberry_Pi_3A_Plus_wpi)(type Legacy)(uri ${KIPRJMOD}/Raspberry_Pi_3A_Plus_wpi.lib)(options "")(descr "")(disabled))
+)
